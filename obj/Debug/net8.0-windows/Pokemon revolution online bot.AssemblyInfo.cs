@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pokemon revolution online bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eb4689caa124180c089f240efe7b407492260d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c74ac548950e3191c3d5f17707a0069daf919160")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pokemon revolution online bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pokemon revolution online bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
