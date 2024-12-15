@@ -1,0 +1,18 @@
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\bin\Debug\net8.0-windows\Pokemon revolution online bot.exe
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\bin\Debug\net8.0-windows\Pokemon revolution online bot.deps.json
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\bin\Debug\net8.0-windows\Pokemon revolution online bot.runtimeconfig.json
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\bin\Debug\net8.0-windows\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\bin\Debug\net8.0-windows\Pokemon revolution online bot.pdb
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.MainForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.csproj.GenerateResource.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.AssemblyInfoInputs.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.AssemblyInfo.cs
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.csproj.CoreCompileInputs.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.sourcelink.json
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\refint\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.pdb
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.genruntimeconfig.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\ref\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.GamePanel.resources

@@ -10,12 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Src\Bot\Actions\" />
     <Folder Include="Src\Bot\AI\" />
-    <Folder Include="Src\Data\" />
-    <Folder Include="Src\GUI\" />
-    <Folder Include="Src\" />
-    <Folder Include="Src\Pokemon\" />
   </ItemGroup>
 
 </Project>
