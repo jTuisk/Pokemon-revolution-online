@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             label1 = new Label();
+            gameScreenPanel = new Panel();
             SuspendLayout();
             // 
             // label1
@@ -40,12 +41,23 @@
             label1.TabIndex = 0;
             label1.Text = "Home";
             // 
+            // gameScreenPanel
+            // 
+            gameScreenPanel.BorderStyle = BorderStyle.FixedSingle;
+            gameScreenPanel.ImeMode = ImeMode.NoControl;
+            gameScreenPanel.Location = new Point(69, 30);
+            gameScreenPanel.Margin = new Padding(0);
+            gameScreenPanel.Name = "gameScreenPanel";
+            gameScreenPanel.Size = new Size(800, 600);
+            gameScreenPanel.TabIndex = 0;
+            // 
             // HomeForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(236, 223, 204);
             ClientSize = new Size(930, 760);
+            Controls.Add(gameScreenPanel);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "HomeForm";
@@ -57,5 +69,6 @@
         #endregion
 
         private Label label1;
+        private Panel gameScreenPanel;
     }
 }
