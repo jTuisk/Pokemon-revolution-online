@@ -35,7 +35,7 @@
             fillPanel = new Panel();
             settingsButton = new Button();
             quitButton = new Button();
-            flowLayoutPanel2 = new FlowLayoutPanel();
+            mainPanel = new FlowLayoutPanel();
             flowLayoutPanel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -70,6 +70,7 @@
             homeButton.TabIndex = 0;
             homeButton.Text = "PRO-Bot";
             homeButton.UseVisualStyleBackColor = false;
+            homeButton.Click += HomeButton_Click;
             // 
             // presetButton
             // 
@@ -86,6 +87,7 @@
             presetButton.TabIndex = 2;
             presetButton.Text = "Presets";
             presetButton.UseVisualStyleBackColor = false;
+            presetButton.Click += PresetButton_Click;
             // 
             // botSettingsButton
             // 
@@ -102,6 +104,7 @@
             botSettingsButton.TabIndex = 1;
             botSettingsButton.Text = "Bot settings";
             botSettingsButton.UseVisualStyleBackColor = false;
+            botSettingsButton.Click += BotSettingsButton_Click;
             // 
             // fillPanel
             // 
@@ -127,6 +130,7 @@
             settingsButton.TabIndex = 3;
             settingsButton.Text = "Settings";
             settingsButton.UseVisualStyleBackColor = false;
+            settingsButton.Click += SettingsButton_Click;
             // 
             // quitButton
             // 
@@ -144,14 +148,15 @@
             quitButton.TabIndex = 4;
             quitButton.Text = "Quit";
             quitButton.UseVisualStyleBackColor = false;
+            quitButton.Click += quitButton_Click;
             // 
-            // flowLayoutPanel2
+            // mainPanel
             // 
-            flowLayoutPanel2.Location = new Point(246, 1);
-            flowLayoutPanel2.Margin = new Padding(0);
-            flowLayoutPanel2.Name = "flowLayoutPanel2";
-            flowLayoutPanel2.Size = new Size(930, 760);
-            flowLayoutPanel2.TabIndex = 1;
+            mainPanel.Location = new Point(246, 1);
+            mainPanel.Margin = new Padding(0);
+            mainPanel.Name = "mainPanel";
+            mainPanel.Size = new Size(930, 760);
+            mainPanel.TabIndex = 1;
             // 
             // MainForm
             // 
@@ -159,12 +164,13 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(236, 223, 204);
             ClientSize = new Size(1184, 761);
-            Controls.Add(flowLayoutPanel2);
+            Controls.Add(mainPanel);
             Controls.Add(flowLayoutPanel1);
             MaximumSize = new Size(1200, 800);
             MinimumSize = new Size(1200, 800);
             Name = "MainForm";
             Text = "MainForm";
+            Load += MainForm_Load;
             flowLayoutPanel1.ResumeLayout(false);
             ResumeLayout(false);
         }
@@ -178,6 +184,6 @@
         private Button settingsButton;
         private Button quitButton;
         private Panel fillPanel;
-        private FlowLayoutPanel flowLayoutPanel2;
+        private FlowLayoutPanel mainPanel;
     }
 }

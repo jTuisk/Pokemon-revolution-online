@@ -15,4 +15,7 @@ C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-w
 C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.pdb
 C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon revolution online bot.genruntimeconfig.cache
 C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\ref\Pokemon revolution online bot.dll
-C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.GamePanel.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.BotSettingsForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.HomeForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.PresetForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.SettingsForm.resources

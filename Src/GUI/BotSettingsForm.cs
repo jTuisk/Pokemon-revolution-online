@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Pokemon_revolution_online_bot.Src.GUI
 {
-    public partial class BotSettingsForms : Form
+    public partial class BotSettingsForm : Form
     {
-        public BotSettingsForms()
+        public BotSettingsForm()
         {
             InitializeComponent();
         }
