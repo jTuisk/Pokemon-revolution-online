@@ -19,3 +19,59 @@ C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-w
 C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.HomeForm.resources
 C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.PresetForm.resources
 C:\Users\jtuis\Desktop\Projects\Pokemon revolution online bot\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.SettingsForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\Pokemon revolution online bot.exe
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\Pokemon revolution online bot.deps.json
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\Pokemon revolution online bot.runtimeconfig.json
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\Pokemon revolution online bot.pdb
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.BotSettingsForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.HomeForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.MainForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.PresetForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon_revolution_online_bot.Src.GUI.SettingsForm.resources
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.csproj.GenerateResource.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.AssemblyInfoInputs.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.AssemblyInfo.cs
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.csproj.CoreCompileInputs.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.sourcelink.json
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\refint\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.pdb
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.genruntimeconfig.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\ref\Pokemon revolution online bot.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon revolution online bot.csproj.AssemblyReference.cache
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\obj\Debug\net8.0-windows\Pokemon .0F423BEE.Up2Date
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\jtuis\Desktop\Projects\Pokemon-revolution-online\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll

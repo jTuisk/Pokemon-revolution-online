@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon revolution online bot\\Pokemon revolution online bot.csproj": {}
+    "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon-revolution-online\\Pokemon revolution online bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon revolution online bot\\Pokemon revolution online bot.csproj": {
+    "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon-revolution-online\\Pokemon revolution online bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon revolution online bot\\Pokemon revolution online bot.csproj",
+        "projectUniqueName": "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon-revolution-online\\Pokemon revolution online bot.csproj",
         "projectName": "Pokemon revolution online bot",
-        "projectPath": "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon revolution online bot\\Pokemon revolution online bot.csproj",
+        "projectPath": "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon-revolution-online\\Pokemon revolution online bot.csproj",
         "packagesPath": "C:\\Users\\jtuis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon revolution online bot\\obj\\",
+        "outputPath": "C:\\Users\\jtuis\\Desktop\\Projects\\Pokemon-revolution-online\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,20 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.9.0.5494, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -30,6 +30,7 @@
         {
             label1 = new Label();
             gameScreenPanel = new Panel();
+            button1 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -51,12 +52,23 @@
             gameScreenPanel.Size = new Size(800, 600);
             gameScreenPanel.TabIndex = 0;
             // 
+            // button1
+            // 
+            button1.Location = new Point(69, 669);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 1;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // HomeForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(236, 223, 204);
             ClientSize = new Size(930, 760);
+            Controls.Add(button1);
             Controls.Add(gameScreenPanel);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
@@ -70,5 +82,6 @@
 
         private Label label1;
         private Panel gameScreenPanel;
+        private Button button1;
     }
 }
